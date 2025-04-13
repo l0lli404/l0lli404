@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![roadmap.sh](https://roadmap.sh/card/tall/67f8b389903b9595d421ef51?variant=dark)](https://roadmap.sh)
+
 <!--
 **l0lli404/l0lli404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
